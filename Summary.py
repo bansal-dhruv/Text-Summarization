@@ -11,8 +11,7 @@ document = Document()
 
 
 
-
-#from nltk.stem import PorterStemmer
+from nltk.stem import PorterStemmer
 
 """
 For example, the Center for a New American Dream envisions "... a focus on more of what really matters, such as creating a meaningful life, contributing to community and society, valuing nature, and spending time with family and friends."
