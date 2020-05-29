@@ -6,4 +6,4 @@ This need glove file which can be downloded from the link http://downloads.cs.st
      
 # Support  
 If you liked it , Star mark it, also all contributions are welcome. 
-Thank You
+Thank You .
